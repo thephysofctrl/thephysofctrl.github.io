@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-#subtitle: Why you'd want to go on a date with me
+subtitle: Literature and software used and referred while creating the content in this blog
 ---
 
 ### Journal and Conference Papers
