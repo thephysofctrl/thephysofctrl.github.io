@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: The Physics of Control
+title: The Physics Of Control
 
 # Your name to show in the footer
 author: Saloni and Djordje
@@ -83,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: "The Physics of Control Blog"
+rss-description: "The Physics Of Control Blog"
 
 ###########################
 # --- General options --- #
