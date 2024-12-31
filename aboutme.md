@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Our names are Saloni Pathak and Djordje Vukcevic. Our Linkedin pages:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+[Saloni Pathak](https://www.linkedin.com/in/saloni-pathak-a35016166/)  
+[Djordje Vukcevic](https://www.linkedin.com/in/djordje-vukcevic)
 
-What else do you need?
+### More about us:
 
-### My story
+Soon to come...
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
