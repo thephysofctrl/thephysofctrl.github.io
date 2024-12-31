@@ -21,9 +21,7 @@ author: Saloni and Djordje
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resources: "resources"
 #  Author's home: "https://deanattali.com"
 
 ################
