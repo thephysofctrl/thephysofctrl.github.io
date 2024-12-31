@@ -90,7 +90,7 @@ blockquote p:first-child {
   background: #EEE;
 }
 hr.small {
-  max-width: 6.25rem;
+  max-width: 36.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
